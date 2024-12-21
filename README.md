@@ -1,6 +1,6 @@
 # Coffee Shop UI Design
 
-This repository features a user interface design for a **Coffee Shop** app, created in **Figma**. The design includes key screens such as the **Home Screen**, **Product Pages**, and **Favorites Section**.
+This is User interface design for a **Coffee Shop** app, created in **Figma**. The design includes key screens such as the **Home Screen**, **Product Pages**, and **Favorites Section**.
 
 ## Custom Home Button Icon Design
 
